@@ -15,3 +15,7 @@ else:
     print(f"The factorial of {number} is {factorial(number)}")
 
 print("vedant")
+print("vedant")
+
+print("vedant")
+
