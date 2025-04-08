@@ -13,5 +13,9 @@ if number < 0:
     print("Factorial is not defined for negative numbers.")
 else:
     print(f"The factorial of {number} is {factorial(number)}")
+    print("vedant")
+    print("vedant")
+    print("Tone")
+    print("vedant")
 
-print("vedant")
+
